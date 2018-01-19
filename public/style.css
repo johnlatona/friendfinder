@@ -1,0 +1,115 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+h3 {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+#survey-title {
+	color: white;
+}
+
+#survey-subtitle {
+	color: rgb(200, 200, 200);
+}
+
+#main {
+	height: 100%;
+	margin: 0 auto;
+	background-image: url("background-img.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#content {
+	margin-top: 8%;
+}
+
+#title {
+	color: white;
+	text-shadow: 0 0 15px #000000;
+	font-family: 'Raleway', sans-serif !important;
+	font-size: 120px;
+}
+
+#directions {
+	color: white;
+}
+
+#survey-button {
+	background-color: black;
+	border: 1px solid black;
+}
+
+#survey-button:hover {
+	background-color: #1D1E1F;
+	border: 1px solid #1D1E1F;
+}
+
+#survey-button:active {
+	background-color: #1D1E1F;
+	border: 1px solid #1D1E1F;	
+}
+
+#subtitle {
+	color: white;
+	font-style: italic;
+}
+
+#jumbotron-row {
+	height: 100%;
+}
+
+#jumbotron-container {
+	height: 100%;
+}
+
+#match-image-photo {
+	width: 100%;
+}
+
+#survey-body {
+	height: 100%;
+	margin: 0 auto;
+	background-image: url("background-img.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#survey-content {
+	padding: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.selection-text {
+	padding-top: 15px !important;
+	padding-right: 30px;
+}
+
+#submit-button {
+	background-color: #E8710C;
+	border: 1px solid #E8710C;
+}
+
+#submit-button:hover {
+	background-color: #C25E0A;
+	border: 1px solid #C25E0A;
+}
+
+#submit-button:active {
+	background-color: #C25E0A;
+	border: 1px solid #C25E0A;
+}
